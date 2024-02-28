@@ -1,6 +1,7 @@
 # Incident Response Plan for Phishing Attack
 # Table of Contents
 1. [Introduction](#Introduction)
+2. [Incident Identification](#Incident)
 ## I. Introduction <a name="Introduction"></a>
 
    ### A. Purpose
@@ -26,7 +27,7 @@
    3. **Preventive Measures:** 
    Enhancing security measures to prevent future phishing attacks is also a key objective.
 
-## II. Incident Identification
+## II. Incident Identification <a name="Incident"></a>
 
    ### A. Indicators of Phishing
 
