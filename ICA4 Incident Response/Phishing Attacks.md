@@ -2,12 +2,11 @@
 
 ## I. Introduction
 
-   A. **Purpose**<br />
-                1.**test**
+   ### A. Purpose
 
-            1. **Objective:** 
+   1. **Objective:** 
             This Incident Response Plan (IRP) aims to provide a systematic approach to handle and respond to phishing attacks effectively.
-            2. **Focus:** 
+   2. **Focus:** 
             The primary focus is on minimizing the impact of phishing attacks by promptly identifying, containing, eradicating, recovering, and documenting incidents.
 
    B. **Scope**
