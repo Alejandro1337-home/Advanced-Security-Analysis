@@ -11,9 +11,9 @@
 
    ### B. Scope
 
-    1. **In-Scope Systems and Data:** 
+   1. **In-Scope Systems and Data:** 
     The plan covers all organizational systems and data.
-    2. **Responsibilities:** 
+   2. **Responsibilities:** 
     Responsibilities for incident responders, IT personnel, and management are clearly outlined.
 
    C. **Objectives**
