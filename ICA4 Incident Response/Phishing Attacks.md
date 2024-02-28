@@ -25,23 +25,30 @@
    3. **Preventive Measures:** 
    Enhancing security measures to prevent future phishing attacks is also a key objective.
 
-**II. Incident Identification**
+## II. Incident Identification
 
-   A. **Indicators of Phishing**
+   ### A. Indicators of Phishing
 
-      1. **Email Activity:** Monitoring for unusual email activity, including spikes in incoming phishing emails.
-      2. **Login Attempts:** Regular review and analysis of unexpected login attempts.
-      3. **User Reports:** Establishing a system for users to promptly report suspicious emails.
+   1. **Email Activity:** 
+    Monitoring for unusual email activity, including spikes in incoming phishing emails.
+   2. **Login Attempts:** 
+   Regular review and analysis of unexpected login attempts.
+   3. **User Reports:** 
+   Establishing a system for users to promptly report suspicious emails.
 
-   B. **Incident Reporting**
+   ### B. Incident Reporting
 
-      1. **Channels:** Defining reporting channels, including a dedicated incident reporting email and a designated contact person.
-      2. **Centralized System:** Establishing a centralized incident reporting system accessible to all employees.
+   1. **Channels:** 
+   Defining reporting channels, including a dedicated incident reporting email and a designated contact person.
+   2. **Centralized System:** 
+   Establishing a centralized incident reporting system accessible to all employees.
 
-   C. **Incident Categorization**
+   ### C. Incident Categorization
 
-      1. **Severity Levels:** Classifying incidents based on severity levels (e.g., low, medium, high).
-      2. **Scope Analysis:** Determining the scope and impact of the phishing attack.
+   1. **Severity Levels:** 
+   Classifying incidents based on severity levels (e.g., low, medium, high).
+   2. **Scope Analysis:** 
+   Determining the scope and impact of the phishing attack.
 
 ...
 
