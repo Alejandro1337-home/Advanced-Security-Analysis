@@ -3,6 +3,8 @@
 1. [Introduction](#introduction)
 2. [Incident Identification](#incident)
 3. [Incident Response Team Activation](#response)
+4. [Incident Containment](#containment)
+5. [Eradication of Threat](#threat)
 ## I. Introduction <a name="introduction"></a>
 
    ### A. Purpose
@@ -75,7 +77,7 @@
    2. **Protocols:** 
    Defining communication protocols, including frequency and methods.
 
-## IV. Incident Containment
+## IV. Incident Containment <a name="containment"></a>
 
    ### A. Isolation of Affected Systems
 
@@ -98,7 +100,7 @@
    2. **Blocking:** 
    Blocking or containing malicious IP addresses associated with the phishing attack.
 
-## V. Eradication of Threat
+## V. Eradication of Threat <a name="threat"></a>
 
    ### A. Removal of Malicious Components
 
@@ -114,7 +116,7 @@
    2. **Patch Management:** 
    Implementing patches to address vulnerabilities exploited in the attack.
 
-## VI. Incident Recovery
+## VI. Incident Recovery <a name="recovery"></a>
 
    ### A. System Restoration
 
@@ -130,7 +132,7 @@
    2. **Communication:** 
    Communicating incident details, lessons learned, and preventative measures to the organization.
 
-## VII. Post-Incident Analysis
+## VII. Post-Incident Analysis <a name="analysis"></a>
 
    ### A. Lessons Learned
 
@@ -146,7 +148,7 @@
    2. **Procedure Updates:** 
    Updating incident response procedures based on lessons learned.
 
-## VIII. Reporting and Communication
+## VIII. Reporting and Communication <a name="reporting"></a>
 
    ### A. Internal Communication
 
@@ -162,7 +164,7 @@
    2. **Messaging:** 
    Developing messaging to reassure customers, partners, and the public.
 
-## IX. Review and Continuous Improvement
+## IX. Review and Continuous Improvement <a name="review"></a>
 
    ### A. Incident Review
 
@@ -178,7 +180,7 @@
    2. **Drills:** 
    Scheduling periodic drills to test the effectiveness of the plan.
 
-## X. Plan Approval and Maintenance
+## X. Plan Approval and Maintenance <a name="plan"></a>
 
    ### A. Plan Approval
 
@@ -194,7 +196,7 @@
    2. **Incorporating Changes:** 
    Incorporating changes based on emerging threats and organizational changes.
 
-## XI. Appendices
+## XI. Appendices <a name="appendices"></a>
 
    ### A. Contact Information
 
@@ -208,7 +210,7 @@
    1. **Policies and Guidelines:** 
    Citations of relevant policies, standards, and guidelines.
 
-## XII. Document Control
+## XII. Document Control <a name="control"></a>
 
    ### A. Version History
 
@@ -217,7 +219,7 @@
    2. **Version Tracking:** 
    Maintaining a clear version history for audit purposes.
 
-## XIII. Distribution
+## XIII. Distribution <a name="distribution"></a>
 
    ### A. Distribution List
 
