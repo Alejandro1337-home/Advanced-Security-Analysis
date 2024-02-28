@@ -9,10 +9,10 @@
    2. **Focus:** 
             The primary focus is on minimizing the impact of phishing attacks by promptly identifying, containing, eradicating, recovering, and documenting incidents.
 
-   B. **Scope**
+   ### B. Scope
 
-      1. **In-Scope Systems and Data:** The plan covers all organizational systems and data.
-      2. **Responsibilities:** Responsibilities for incident responders, IT personnel, and management are clearly outlined.
+    1. **In-Scope Systems and Data:** The plan covers all organizational systems and data.
+    2. **Responsibilities:** Responsibilities for incident responders, IT personnel, and management are clearly outlined.
 
    C. **Objectives**
 
