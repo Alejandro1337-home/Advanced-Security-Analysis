@@ -1,6 +1,7 @@
 # Incident Response Plan for Phishing Attack
-
-## I. Introduction
+# Table of Contents
+1. [Introduction](#Introduction)
+## I. Introduction <a name="Introduction"></a>
 
    ### A. Purpose
 
