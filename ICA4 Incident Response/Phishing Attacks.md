@@ -2,6 +2,7 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Incident Identification](#Incident)
+3. [Incident Response Team Activation](#Response)
 ## I. Introduction <a name="Introduction"></a>
 
    ### A. Purpose
@@ -51,7 +52,7 @@
    Classifying incidents based on severity levels (e.g., low, medium, high).
    2. **Scope Analysis:** 
    Determining the scope and impact of the phishing attack.
-## III. Incident Response Team Activation
+## III. Incident Response Team Activation <a name="Response"></a>
 
    ### A. Roles and Responsibilities
 
