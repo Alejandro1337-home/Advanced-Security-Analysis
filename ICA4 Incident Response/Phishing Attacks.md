@@ -5,9 +5,9 @@
    ### A. Purpose
 
    1. **Objective:** 
-            This Incident Response Plan (IRP) aims to provide a systematic approach to handle and respond to phishing attacks effectively.
+    This Incident Response Plan (IRP) aims to provide a systematic approach to handle and respond to phishing attacks effectively.
    2. **Focus:** 
-            The primary focus is on minimizing the impact of phishing attacks by promptly identifying, containing, eradicating, recovering, and documenting incidents.
+    The primary focus is on minimizing the impact of phishing attacks by promptly identifying, containing, eradicating, recovering, and documenting incidents.
 
    ### B. Scope
 
@@ -16,11 +16,14 @@
    2. **Responsibilities:** 
     Responsibilities for incident responders, IT personnel, and management are clearly outlined.
 
-   C. **Objectives**
+   ### C. Objectives
 
-      1. **Minimize Impact:** The plan seeks to minimize the impact of phishing attacks on organizational assets and data.
-      2. **Incident Life Cycle:** It aims to effectively manage the incident life cycle by identifying, containing, eradicating, recovering, and documenting incidents.
-      3. **Preventive Measures:** Enhancing security measures to prevent future phishing attacks is also a key objective.
+   1. **Minimize Impact:** 
+   The plan seeks to minimize the impact of phishing attacks on organizational assets and data.
+   2. **Incident Life Cycle:** 
+   It aims to effectively manage the incident life cycle by identifying, containing, eradicating, recovering, and documenting incidents.
+   3. **Preventive Measures:** 
+   Enhancing security measures to prevent future phishing attacks is also a key objective.
 
 **II. Incident Identification**
 
