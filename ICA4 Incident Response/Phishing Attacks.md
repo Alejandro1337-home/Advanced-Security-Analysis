@@ -5,6 +5,14 @@
 3. [Incident Response Team Activation](#response)
 4. [Incident Containment](#containment)
 5. [Eradication of Threat](#threat)
+6. [Incident Recovery](#recovery)
+7. [Post-Incident Analysis](#analysis)
+8. [Reporting and Communication](reporting)
+9. [Review and Continuous Improvment](#review)
+10. [Plan Approval and Maintenance](#plan)
+11. [Appendices](#appendices)
+12. [Document Control](#control)
+13. [Distribution](#distribution)
 ## I. Introduction <a name="introduction"></a>
 
    ### A. Purpose
