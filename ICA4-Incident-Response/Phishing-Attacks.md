@@ -7,7 +7,7 @@
 5. [Eradication of Threat](#threat)
 6. [Incident Recovery](#recovery)
 7. [Post-Incident Analysis](#analysis)
-8. [Reporting and Communication](reporting)
+8. [Reporting and Communication](#reporting)
 9. [Review and Continuous Improvment](#review)
 10. [Plan Approval and Maintenance](#plan)
 11. [Appendices](#appendices)
